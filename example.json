@@ -1,0 +1,15 @@
+[
+	{
+		"purchaseHistory": {
+			"invoicePrice": "€9.99",
+			"paymentMethodTitle": "PayPal: xxx@xxx.com",
+			"userLanguageCode": "fr_FR",
+			"userCountry": "FR",
+			"doc": {
+				"documentType": "In App Item",
+				"title": "Pack Test (An Application Name)"
+			},
+			"purchaseTime": "2025-07-04T19:15:15.844Z"
+		}
+	}
+]
