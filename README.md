@@ -1,9 +1,5 @@
-[Access to the github-page](https://rdyx.github.io/google-takeout-order-history/)
-
-
+# [Access to the github-page](https://rdyx.github.io/google-takeout-order-history/)
 ---
----
-
 
 ![Example](image.png)
 
