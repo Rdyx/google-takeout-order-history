@@ -1,4 +1,4 @@
-(Access to the page)[https://rdyx.github.io/google-takeout-order-history/]
+[Access to the page](https://rdyx.github.io/google-takeout-order-history/)
 ---
 
 ![Example](image.png)
